@@ -1,0 +1,21 @@
+{
+  "id": "betterback",
+  "name": "Better Player Backsprite",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "game_version": ">=0.0.0-dev <1.0.0",
+  "category": "GRAPHICS",
+  "priority": 100,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "incompatible": [],
+  "experimental": false,
+  "permissions": [
+    "engine_internals"
+  ],
+  "description": "Higher-res backsprite for the player",
+  "github": "kamon137/betterback"
+}
